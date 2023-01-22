@@ -1,0 +1,18 @@
+[[package]]
+name = "coverage"
+version = "7.0.4"
+description = "Code coverage measurement for Python"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[package.extras]
+toml = ["tomli"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "a9f9b713580ac400f10dcaf81275dc2aa6e63901cf23eb2c36b3a32594b3a27c"
+
+[metadata.files]
+coverage = []
